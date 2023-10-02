@@ -1,0 +1,36 @@
+
+		Trabajo Practico 1
+			objetivo: "Reforzamiento contenidos clases 1,2 y 3"
+			
+		Actividad: 
+		
+			1) Descargar ejemplo inicializr del sitio http://www.initializr.com/ ok
+			
+			2) descomprimir el archivo y deberian visualizar la carpeta con un proyecto ok
+			
+			3) inicializar un repositorio en la carpeta descomprimida OK
+			
+			4) registrar 10 cambios (commits) en el repositorio local ok
+				-> cambio 1
+				-> cambio 2
+				-> cambio 3
+				-> cambio 4
+				-> cambio 10
+				-> ......
+			
+			5) crear un repositorio remoto (git hub) OK
+			
+			6) enlazar repo local con repositorio remoto OK
+			
+			7) enviar link del repositorio remoto Pendiente
+
+git remote add origin https://github.com/lorecam/CursoGitBCI.git
+
+
+
+git add browserconfig.xml
+git commit -m "Se actualiza repositorio. Se agrega archivo .png del template del proyecto"
+
+
+
+			
